@@ -9,7 +9,7 @@ const userSchema=mongoose.Schema({
     "email":{type:String},
     "password":{type:String},
     "f_name":{type:String},
-    "l_name":{type:String},
+    "l_name":{type:String}
 })
 
 
